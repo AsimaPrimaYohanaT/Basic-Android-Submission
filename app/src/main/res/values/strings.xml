@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Makanan Nusantara</string>
+
+    <string name="food_name">Nama Makanan</string>
+    <string name="description">Deskripsi</string>
+    <string-array name="data_name">
+        <item>Ayam Rica Rica</item>
+        <item>Bakso</item>
+        <item>Bebek Betutu</item>
+        <item>Rendang</item>
+        <item>Gado Gado</item>
+        <item>Gudeg</item>
+        <item>Nasi Goreng</item>
+        <item>Nasi Padang</item>
+        <item>Pempek</item>
+        <item>Rawon</item>
+
+    </string-array>
+
+    <string-array name="data_jenis">
+        <item>Main Course</item>
+        <item>Main Course</item>
+        <item>Main Course</item>
+        <item>Main Course</item>
+        <item>Appetizer</item>
+        <item>Main Course</item>
+        <item>Main Course</item>
+        <item>Main Course</item>
+        <item>Appetizer</item>
+        <item>Main Course</item>
+
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Ayam rica-rica adalah olahan ayam bercita rasa pedas gurih, berasal dari Manado, Sulawesi Utara. Biasanya bumbu ayam rica-rica terdiri dari bawang merah, bawang putih, cabai rawit, cabai merah keriting, cabai merah besar, tomat, kunyit, jahe, lengkuas, serai dan kemangi.</item>
+        <item>Bakso atau baso adalah jenis bola daging yang lazim ditemukan pada masakan Indonesia. Bakso umumnya dibuat dari campuran daging sapi giling dan tepung tapioka, tetapi ada juga bakso yang terbuat dari daging ayam, babi, ikan, udang bahkan daging kerbau.</item>
+        <item>Betutu adalah makanan tradisional khas Bali yang terbuat dari ayam atau bebek utuh yang berisi bumbu, kemudian dipanggang dalam api sekam. Kata betutu berasal dari kata "tunu" yang berarti "bakar" dan dirangkai dengan kata "be" yang berarti "daging". Berdasarkan uraian tersebut, "betutu" berarti daging yang dibakar.</item>
+        <item>Rendang atau randang dalam bahasa Minangkabau adalah Masakan Minangkabau yang berbahan dasar daging yang berasal dari Sumatra Barat, Indonesia. Masakan merupakan olahan daging atau telur yang dimasak dalam suhu rendah dalam waktu lama dengan menggunakan aneka rempah-rempah dan santan.</item>
+        <item>Gado-gado adalah makanan khas Jakarta berisi sayur-sayuran yang direbus, irisan telur dan tahu, serta ditaburi bawang goreng dan kerupuk. Sayur-sayuran ditambahkan dengan bumbu kacang atau saus dari kacang tanah yang telah dihaluskan yang kemudian diaduk merata.</item>
+        <item>Gudeg adalah hidangan khas Provinsi Daerah Istimewa Yogyakarta yang terbuat dari nangka muda yang dimasak dengan santan. Perlu waktu berjam-jam untuk membuat hidangan ini. Warna cokelat biasanya dihasilkan oleh daun jati yang dimasak bersamaan.</item>
+        <item>Nasi goreng adalah makanan berupa nasi yang digoreng dan dicampur dalam minyak goreng, margarin, atau mentega. Biasanya ditambah dengan kecap manis, bawang merah, bawang putih, asam jawa, lada dan bahan lainnya; seperti telur, daging ayam, dan kerupuk.</item>
+        <item>Nasi padang adalah nasi putih yang disajikan dengan berbagai macam lauk-pauk khas Minangkabau, Indonesia. Kata padang merujuk pada ibu kota Provinsi Sumatra Barat, Padang.</item>
+        <item>Pempek atau empek-empek adalah makanan yang terbuat dari daging ikan yang digiling lembut yang dicampur tepung kanji atau tepung sagu, serta komposisi beberapa bahan lain seperti telur, bawang putih yang dihaluskan, penyedap rasa, dan garam.</item>
+        <item>Rawon adalah masakan Indonesia berasal dari Ponorogo yang berupa sup daging berkuah hitam dengan campuran bumbu khas yang menggunakan kluwek. Rawon, Menyebar keluar Ponorogo karena Ponorogo memiliki peran Penting dari masa ke masa, hingga dikenal sebagai masakan khas Jawa Timur, masyarakat Jawa Tengah sebelah timur.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/ayamrica</item>
+        <item>@drawable/bakso</item>
+        <item>@drawable/bebekbetutu</item>
+        <item>@drawable/cakalang</item>
+        <item>@drawable/gadogado</item>
+        <item>@drawable/gudeg</item>
+        <item>@drawable/nasigoreng</item>
+        <item>@drawable/nasipadang</item>
+        <item>@drawable/pempek</item>
+        <item>@drawable/rawon</item>
+
+
+    </integer-array>
+
+
+</resources>
